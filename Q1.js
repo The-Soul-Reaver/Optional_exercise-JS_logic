@@ -1,4 +1,4 @@
-const inputArray = [1,2,4,591,392,"b",391,2,5,10,2,1,1,"a","b",1,20,20];
+const inputArray = [1,2,4,591,4,392,"b",391,2,5,10,2,1,1,"a","b",1,20,20];
 
 function cleanTheRoom(arr) {
 	const numbers = [];
