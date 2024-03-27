@@ -24,7 +24,6 @@ function cleanTheRoom(arr) {
   return sortedArray
 }
 
-// This function subtracts b from a. If the result is negative, a comes before b in the sorted array, if positive, b comes before a, and if zero, they remain in the same order.
 function sortNumbers(arr) {
 	return arr.sort((a, b) => a - b);
 }
